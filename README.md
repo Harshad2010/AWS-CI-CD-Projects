@@ -3,6 +3,10 @@
 1. Docker Build checked
 2. Github Workflow
 3. Iam User In AWS
+4. Create ECR private repo.
+5. Create and Launch EC2 instance and install necesary packages especially related for dockers mentioned in docker setup below.
+6. App Runner setup: whenver u do any code commit automatically this runner should trigger and should do deployment, for runn setup : follow instruction given in github itself, for setup and configuration setting: Runner image, Download and configuration instruction just copy paste. your sekf hosted runner should be created which connected with ec2.
+7. Run workflow and check.
 
 ## Docker Setup In EC2 commands to be Executed
 
